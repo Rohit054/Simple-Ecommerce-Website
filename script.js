@@ -60,5 +60,6 @@ function checkout() {
   
   // Refresh the cart display
   //displayCart();
+  
 }
 
