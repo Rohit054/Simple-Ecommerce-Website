@@ -57,7 +57,6 @@ function checkout() {
   
   // Display an alert or perform any other action you want
   alert('Thank you for your purchase!');
-  
   // Refresh the cart display
   //displayCart();
   
