@@ -1,5 +1,5 @@
 var MenuItems = document.getElementById("MenuItems");
-// menu
+//  menu
 MenuItems.style.maxHeight = "0px";
 
 function menutoggle() {
